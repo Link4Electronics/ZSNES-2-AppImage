@@ -1,10 +1,10 @@
 <div align="center">
 
-# ZSNES-2-AppImage 🐧
+# ZSNES-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ZSNES-2-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ZSNES-2-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/ZSNES-2-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ZSNES-2-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ZSNES-2-AppImage)](https://github.com/pkgforge-dev/ZSNES-2-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ZSNES-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ZSNES-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/ZSNES-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ZSNES-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ZSNES-AppImage)](https://github.com/pkgforge-dev/ZSNES-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://github.com/xyproto/zsnes/blob/main/icons/128x128x32.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/ZSNES-2-AppImage/releases/latest) | [Click here](https://github.com/xyproto/zsnes) |
+| [Click here](https://github.com/pkgforge-dev/ZSNES-AppImage/releases/latest) | [Click here](https://github.com/xyproto/zsnes) |
 
 </div>
 
