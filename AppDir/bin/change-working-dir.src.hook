@@ -1,0 +1,4 @@
+#!/bin/false
+dir=$HOME/.zsnes
+mkdir -p "$dir"
+cd "$dir"
