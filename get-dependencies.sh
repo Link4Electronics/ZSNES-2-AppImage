@@ -19,7 +19,7 @@ get-debloated-pkgs --add-common --prefer-nano
 #make-aur-package PACKAGENAME
 
 # If the application needs to be manually built that has to be done down here
-echo "Making nightly build of ZSNES 2..."
+echo "Making nightly build of ZSNES..."
 echo "---------------------------------------------------------------"
 REPO="https://github.com/xyproto/zsnes"
 VERSION="$(git ls-remote "$REPO" HEAD | cut -c 1-9 | head -1)"
