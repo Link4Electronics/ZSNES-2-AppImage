@@ -11,7 +11,7 @@ export ICON=https://raw.githubusercontent.com/xyproto/zsnes/refs/heads/main/icon
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun ./AppDir/bin/zsnes /usr/lib32/libEGL.so*
+quick-sharun ./AppDir/bin/zsnes /usr/lib32/libEGL.so* /usr/lib32/libEGL_mesa.so*
 
 # Additional changes can be done in between here
 
